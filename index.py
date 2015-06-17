@@ -14,6 +14,7 @@ object      面向对象
 systime     时间处理
 exceptions  异常处理
 readfile    文件操作
+multiprocessing  线程和进程操作
 ++++++++++++++++++++++++++++++++++++++++++++'''
     sys.exit(0)
 
